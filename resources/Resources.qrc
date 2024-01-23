@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/admin.png</file>
+    <file>Icons/box_1524855.png</file>
+    <file>Icons/home-button_5974636.png</file>
+    <file>Icons/logout.png</file>
+    <file>Icons/magnifying-glass.png</file>
+    <file>Icons/menu-bar.png</file>
+    <file>Icons/seo-report.png</file>
+    <file>Icons/user.png</file>
+    <file>logo1.png</file>
+  </qresource>
+</RCC>
